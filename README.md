@@ -7,7 +7,7 @@
 
 A browser-based tool that hides a secret text message inside an image and reads it back later. It is a single HTML file with no server and no external libraries.
 
-**Student:** Gaurang Khare | **Class:** ELCE-2 | **Roll No:** 2026B02310077
+**Student:** Gaurang Khare | **Class:** ELCE-1 | **Roll No:** 2026B02310077
 **Faculty:** Mr. Pushparaj Dora | **Institute:** ABES Engineering College, Ghaziabad
 
 ## Features
